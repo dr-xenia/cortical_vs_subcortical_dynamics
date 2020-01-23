@@ -1,8 +1,8 @@
 # Comparing cortical and subcortical brain dynamics
 
 ## Contributors (in alphabetical order):
-- Natasha Bertelsen, CTO
-- Thomas Kirk, CFO
+- Natasha Bertelsen, CTO and Recycler Enthusiast
+- Thomas Kirk, CFO and Cuttlery Master
 - Xenia Kobeleva, CEO and Supreme Leader
 
 ## Aims: 
