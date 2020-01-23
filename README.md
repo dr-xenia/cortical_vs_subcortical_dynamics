@@ -2,7 +2,7 @@
 
 ## Contributors (in alphabetical order):
 - Natasha Bertelsen, CTO and Recycler Enthusiast
-- Thomas Kirk, CFO and Cuttlery Master
+- Thomas Kirk, CFO and Cutlery Master
 - Xenia Kobeleva, CEO and Supreme Leader
 
 ## Aims: 
