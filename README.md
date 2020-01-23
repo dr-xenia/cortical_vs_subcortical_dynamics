@@ -1,9 +1,9 @@
 # Comparing cortical and subcortical brain dynamics
 
 ## Contributors (in alphabetical order):
-- Natasha Bertelsen
-- Thomas Kirk
-- Xenia Kobeleva
+- Natasha Bertelsen, CTO
+- Thomas Kirk, CFO
+- Xenia Kobeleva, CEO and Supreme Leader
 
 ## Aims: 
 - compare brain dynamics of anatomically ("historically") defined regions (cortex and subcortex) to see which dynamic properties differ in these regions
