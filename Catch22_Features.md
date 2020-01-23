@@ -1,5 +1,5 @@
 # Catch22 Features
-“*In their simplest form, these methods can be represented as algorithms that capture time- series properties as real numbers, or features*. […] ***the choice of which features to use to characterize a time series is subjective and non-systematic.*** *Thus, it is difficult to determine whether the features selected by one researcher might differ had they been selected by a different researcher, and therefore whether the feature set presented for a given task is better than existing alternatives”* (extracted from: Fulcher, 2017 doi: https://doi.org/10.1016/j.cels.2017.10.001)
+“*In their simplest form, these methods can be represented as algorithms that capture time-series properties as real numbers, or features*. […] ***the choice of which features to use to characterize a time series is subjective and non-systematic.*** *Thus, it is difficult to determine whether the features selected by one researcher might differ had they been selected by a different researcher, and therefore whether the feature set presented for a given task is better than existing alternatives”* (extracted from: Fulcher, 2017 doi: https://doi.org/10.1016/j.cels.2017.10.001)
 
 ## Distribution
 
