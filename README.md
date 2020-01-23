@@ -1,9 +1,9 @@
 # Comparing cortical and subcortical brain dynamics
 
-Contributors:
-- Xenia Kobeleva
-- Thomas Kirk
+## Contributors (in alphabetical order):
 - Natasha Bertelsen
+- Thomas Kirk
+- Xenia Kobeleva
 
 ## Aims: 
 - compare brain dynamics of anatomically ("historically") defined regions (cortex and subcortex) to see which dynamic properties differ in these regions
