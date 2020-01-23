@@ -3,4 +3,5 @@
 __pycache__
 hackathon2020Benelux
 *.zip
+*.ipynb_checkpoints
 
